@@ -34,7 +34,7 @@ Delta is a cutting-edge **Options Pricing and Analytics Platform** designed to p
 
 ```bash
 # Clone the repository
-git clone https://github.com/ameyalambat128/delta.git
+git clone https://github.com/ameyalambat/delta.git
 
 # Navigate to the project folder
 cd delta
